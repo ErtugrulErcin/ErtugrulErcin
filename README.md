@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Fleet Management Project.
-- 🌱 I’m currently learning Java,Selenium,SQL,API
+- 🌱 I know Java,Selenium,SQL and API
 - 💬 Ask me about whatever you want about IT :)
 - 📫 How to reach me: ertugrulercin@gmail.com
 
