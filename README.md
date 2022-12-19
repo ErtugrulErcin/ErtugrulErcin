@@ -4,13 +4,21 @@
 - 📫 How to reach me: ertugrulercin@gmail.com
 
 PROFESSIONAL SUMMARY:
+
     • Experienced in Front-End Testing (Selenium WebDriver), API Web Services Testing (Rest Assured Library-POSTMAN-Swagger), Database Testing (JDBC-           SQL), Smoke Testing, Regression Testing, Cross-Browser testing, Parallel Testing, Manual Testing.
+
     • More than 2 years experience of Freelance QA Manual Testing
+    
     • Organized and implemented TestNG and Cucumber Behavioral Driven Development framework using Page Object Model(POM). Comprehensive knowledge of Java       and Object-Oriented Programming (OOP) concepts for testing purposes.
+    
     • Executed three-point validation for UI-API-DB testing using Cucumber Behavioral Driven Development Framework with JUnit. Performed system testing         (functional testing, smoke testing, regression testing, manual testing) in Web-based applications.
+    
     • Maintained of AWS EC2 instances for triggering scheduled Test Cases with Jenkins and generated Maven-Cucumber, HTML reports.
+    
     • Prepared Test Cases and Test Scenarios. Implemented Positive and Negative testing.
+    
     • Familiar with Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+
 
 SKILLS: 
  Methodologies :  Agile (Scrum)
