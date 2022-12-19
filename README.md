@@ -15,10 +15,11 @@ PROFESSIONAL SUMMARY:
     Model(POM). Comprehensive knowledge of Java and Object-Oriented Programming (OOP) concepts for testing purposes.
     
     • Executed three-point validation for UI-API-DB testing using Cucumber Behavioral Driven Development Framework 
-    with JUnit. Performed system testing         (functional testing, smoke testing, regression testing, manual testing)
+    with JUnit. Performed system testing (functional testing, smoke testing, regression testing, manual testing)
     in Web-based applications.
     
-    • Maintained of AWS EC2 instances for triggering scheduled Test Cases with Jenkins and generated Maven-Cucumber, HTML reports.
+    • Maintained of AWS EC2 instances for triggering scheduled Test Cases with Jenkins and generated Maven-Cucumber, 
+    HTML reports.
     
     • Prepared Test Cases and Test Scenarios. Implemented Positive and Negative testing.
     
