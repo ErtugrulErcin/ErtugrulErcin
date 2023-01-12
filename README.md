@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Fleet Management Project as SDET(Software Development Engineer in Test)
+- 🔭 I’m currently working on Campuslibris as SDET(Software Development Engineer in Test)
 - 📫 How to reach me: ertugrulercin@gmail.com
+                      www.linkedin.com/in/ertugrul-ercin/ 
+                      replit.com/@ErtugrulErcin
+                      leetcode.com/ErtugrulErcin
+                      
 
 PROFESSIONAL SUMMARY:
 
